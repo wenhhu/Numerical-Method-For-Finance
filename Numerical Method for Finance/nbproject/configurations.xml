@@ -4,6 +4,12 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BinomialPricing.h</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BlackScholes.h</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Cholesky.h</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.h</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.h</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/iterative_linear_solver.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -12,6 +18,12 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Binomialpricing.cpp</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BlackScholes.cpp</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Cholesky.cpp</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.cpp</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.cpp</itemPath>
+      <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/iterative_linear_solver.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -25,7 +37,11 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/data.csv</itemPath>
   </logicalFolder>
+  <sourceRootList>
+    <Elem>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance</Elem>
+  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="1">
@@ -37,8 +53,76 @@
       <compileType>
         <ccTool>
           <standard>11</standard>
+          <incDir>
+            <pElem>/Users/wenhaohu/Dropbox/Code/packages/eigen3</pElem>
+          </incDir>
         </ccTool>
       </compileType>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BinomialPricing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Binomialpricing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BlackScholes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BlackScholes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Cholesky.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Cholesky.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/data.csv"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/iterative_linear_solver.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/iterative_linear_solver.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -62,6 +146,71 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BinomialPricing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Binomialpricing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BlackScholes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/BlackScholes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Cholesky.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Cholesky.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/data.csv"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/iterative_linear_solver.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/iterative_linear_solver.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
