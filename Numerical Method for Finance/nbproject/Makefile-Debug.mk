@@ -38,8 +38,11 @@ OBJECTFILES= \
 	${OBJECTDIR}/_ext/57789b2f/Binomialpricing.o \
 	${OBJECTDIR}/_ext/57789b2f/BlackScholes.o \
 	${OBJECTDIR}/_ext/57789b2f/Cholesky.o \
+	${OBJECTDIR}/_ext/57789b2f/EuroTrinomialPricing.o \
 	${OBJECTDIR}/_ext/57789b2f/Functions.o \
 	${OBJECTDIR}/_ext/57789b2f/NumMethod.o \
+	${OBJECTDIR}/_ext/57789b2f/Trinomialpricing.o \
+	${OBJECTDIR}/_ext/57789b2f/TrinomialpricingVR.o \
 	${OBJECTDIR}/_ext/57789b2f/iterative_linear_solver.o \
 	${OBJECTDIR}/main.o
 
@@ -83,6 +86,11 @@ ${OBJECTDIR}/_ext/57789b2f/Cholesky.o: /Users/wenhaohu/NetBeansProjects/Numerica
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -I/Users/wenhaohu/Dropbox/Code/packages/eigen3 -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/57789b2f/Cholesky.o /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/Cholesky.cpp
 
+${OBJECTDIR}/_ext/57789b2f/EuroTrinomialPricing.o: /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/EuroTrinomialPricing.cpp 
+	${MKDIR} -p ${OBJECTDIR}/_ext/57789b2f
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -I/Users/wenhaohu/Dropbox/Code/packages/eigen3 -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/57789b2f/EuroTrinomialPricing.o /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/EuroTrinomialPricing.cpp
+
 ${OBJECTDIR}/_ext/57789b2f/Functions.o: /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/Functions.cpp 
 	${MKDIR} -p ${OBJECTDIR}/_ext/57789b2f
 	${RM} "$@.d"
@@ -92,6 +100,16 @@ ${OBJECTDIR}/_ext/57789b2f/NumMethod.o: /Users/wenhaohu/NetBeansProjects/Numeric
 	${MKDIR} -p ${OBJECTDIR}/_ext/57789b2f
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -I/Users/wenhaohu/Dropbox/Code/packages/eigen3 -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/57789b2f/NumMethod.o /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/NumMethod.cpp
+
+${OBJECTDIR}/_ext/57789b2f/Trinomialpricing.o: /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/Trinomialpricing.cpp 
+	${MKDIR} -p ${OBJECTDIR}/_ext/57789b2f
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -I/Users/wenhaohu/Dropbox/Code/packages/eigen3 -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/57789b2f/Trinomialpricing.o /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/Trinomialpricing.cpp
+
+${OBJECTDIR}/_ext/57789b2f/TrinomialpricingVR.o: /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/TrinomialpricingVR.cpp 
+	${MKDIR} -p ${OBJECTDIR}/_ext/57789b2f
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -I/Users/wenhaohu/Dropbox/Code/packages/eigen3 -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/57789b2f/TrinomialpricingVR.o /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/TrinomialpricingVR.cpp
 
 ${OBJECTDIR}/_ext/57789b2f/iterative_linear_solver.o: /Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical\ Method\ for\ Finance/iterative_linear_solver.cpp 
 	${MKDIR} -p ${OBJECTDIR}/_ext/57789b2f

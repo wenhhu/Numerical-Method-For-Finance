@@ -37,6 +37,12 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/EuroTrinomialPricing.cpp</itemPath>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/EuroTrinomialPricing.h</itemPath>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Trinomialpricing.cpp</itemPath>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Trinomialpricing.h</itemPath>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/TrinomialpricingVR.cpp</itemPath>
+    <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/TrinomialpricingVR.h</itemPath>
     <itemPath>/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/data.csv</itemPath>
   </logicalFolder>
   <sourceRootList>
@@ -88,6 +94,16 @@
             tool="3"
             flavor2="0">
       </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/EuroTrinomialPricing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/EuroTrinomialPricing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.cpp"
             ex="false"
             tool="1"
@@ -104,6 +120,26 @@
             flavor2="0">
       </item>
       <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Trinomialpricing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Trinomialpricing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/TrinomialpricingVR.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/TrinomialpricingVR.h"
             ex="false"
             tool="3"
             flavor2="0">
@@ -176,6 +212,16 @@
             tool="3"
             flavor2="0">
       </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/EuroTrinomialPricing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/EuroTrinomialPricing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Functions.cpp"
             ex="false"
             tool="1"
@@ -192,6 +238,26 @@
             flavor2="0">
       </item>
       <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/NumMethod.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Trinomialpricing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/Trinomialpricing.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/TrinomialpricingVR.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/Users/wenhaohu/NetBeansProjects/Numerical_Method_For_Finace/Numerical Method for Finance/TrinomialpricingVR.h"
             ex="false"
             tool="3"
             flavor2="0">
